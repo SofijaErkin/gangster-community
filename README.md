@@ -14,6 +14,24 @@ contributions. This project is aim to do the favor for the configuration
 
 ## 1.The Contributions
 
+Angola, Antigua and Barbuda, Bahrain, Belarus, Burundi, Cambodia, Cameroon,
+
+Central African Republic, China, Comoros, Congo, Cuba, Djibouti, Dominica,
+
+Egypt, Equatorial Guinea, Eritrea, Gabon, Gambia, Grenada, Guinea,
+
+Guinea-Bissau, Iran, Iraq, Kiribati, North Korea, Kuwait, Laos, Lebanon,
+
+Lesotho, Madagascar, Mauritania, Morocco, Mozambique, Myanmar, Nepal,
+
+Nicaragua, Niger,Oman, Pakistan, Palestine, Papua New Guinea, Russia, Saudi
+
+Arabia, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Suriname,
+
+Syria, Tajikistan, Tanzania, Togo, Uganda, United Arab Emirates(UAE),
+
+Venezuela, Yemen, Zambia, Zimbabwe.
+
 ## 2.Reference
 
 1.[Public statements of support and condemnation of Sino-policies in SinKiang](https://es.wikipedia.org/wiki/Campos_de_internamiento_de_Sinkiang).
