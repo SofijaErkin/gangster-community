@@ -14,23 +14,29 @@ contributions. This project is aim to do the favor for the configuration
 
 ## 1.The Contributions
 
-Angola, Antigua and Barbuda, Bahrain, Belarus, Burundi, Cambodia, Cameroon,
+Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahrain, Barbados, Belarus,
+
+Bosnia and Herzegovina, Bulgaria, Brazil, Burundi, Cambodia, Cameroon,
 
 Central African Republic, China, Comoros, Congo, Cuba, Djibouti, Dominica,
 
-Egypt, Equatorial Guinea, Eritrea, Gabon, Gambia, Grenada, Guinea,
+Egypt, Equatorial Guinea, Eritrea, Ethiopia, France, Gabon, Gambia, Grenada,
 
-Guinea-Bissau, Iran, Iraq, Kiribati, North Korea, Kuwait, Laos, Lebanon,
+Guinea, Guinea-Bissau, Indonesia, Italy, Indonesia, Iran, Iraq, Kazakhstan,
 
-Lesotho, Madagascar, Mauritania, Morocco, Mozambique, Myanmar, Nepal,
+Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Lesotho,
 
-Nicaragua, Niger,Oman, Pakistan, Palestine, Papua New Guinea, Russia, Saudi
+Lithuania, Madagascar, Mauritania, Mexico, Mongolia, Morocco, Mozambique,
 
-Arabia, Sierra Leone, Somalia, South Sudan, Sri Lanka, Sudan, Suriname,
+Myanmar, Namibia, Nepal, Nicaragua, Niger,Oman, Pakistan, Palestine, Papua New
 
-Syria, Tajikistan, Tanzania, Togo, Uganda, United Arab Emirates(UAE),
+Guinea, Peru, Portugal, Philippines, Romania, Russia, Saudi Arabia, Sierra
 
-Venezuela, Yemen, Zambia, Zimbabwe.
+Leone, Somalia, South Africa, South Sudan, Spain, Sri Lanka, Sudan, Suriname,
+
+Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda, Ukraine, United
+
+Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
 
 ## 2.Reference
 
