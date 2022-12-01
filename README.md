@@ -16,27 +16,25 @@ contributions. This project is aim to do the favor for the configuration
 
 Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahrain, Barbados, Belarus,
 
-Brazil, Burundi, Cambodia, Cameroon,
+Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
 
-Central African Republic, China, Comoros, Congo, Cuba, Djibouti, Dominica,
+Congo, Cuba, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Ethiopia,
 
-Egypt, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Grenada,
+Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, Indonesia, Indonesia, Iran,
 
-Guinea, Guinea-Bissau, Indonesia, Indonesia, Iran, Iraq, Kazakhstan,
+Iraq, Kazakhstan, Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos,
 
-Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Lesotho,
+Lebanon, Lesotho, Madagascar, Mauritania, Mexico, Mongolia, Morocco,
 
-Madagascar, Mauritania, Mexico, Mongolia, Morocco, Mozambique,
+Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger,Oman, Pakistan,
 
-Myanmar, Namibia, Nepal, Nicaragua, Niger,Oman, Pakistan, Palestine, Papua New
+Palestine, Papua New Guinea, Peru, Portugal, Philippines, Romania, Russia,
 
-Guinea, Peru, Portugal, Philippines, Romania, Russia, Saudi Arabia, Sierra
+Saudi Arabia, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka,
 
-Leone, Somalia, South Africa, South Sudan, Sri Lanka, Sudan, Suriname,
+Sudan, Suriname, Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda,
 
-Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda, Ukraine, United
-
-Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
+Ukraine, United Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
 
 ## 2.Reference
 
