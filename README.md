@@ -20,21 +20,55 @@ Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
 
 Congo, Cuba, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Ethiopia,
 
-Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, Indonesia, Indonesia, Iran,
+Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, Indonesia, Iran,
 
 Iraq, Kazakhstan, Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos,
 
 Lebanon, Lesotho, Madagascar, Mauritania, Mexico, Mongolia, Morocco,
 
-Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger,Oman, Pakistan,
+Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Oman, Pakistan,
 
-Palestine, Papua New Guinea, Peru, Portugal, Philippines, Romania, Russia,
+Palestine, Papua New Guinea, Peru, Portugal, Philippines, Russia,
 
 Saudi Arabia, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka,
 
 Sudan, Suriname, Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda,
 
-Ukraine, United Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
+Ukraine, United Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia,
+
+Zimbabwe.
+
+Notice: some contributions are including here only because they have signed and
+
+ratified the extradition treaty with Sino, e.g: `Ukraine`, `Uzbekistan`,
+
+`Tunisia`, `Thailand`, `Philippines`, `Portugal`, `Peru`, `Namibia`, `Mongolia`
+
+, `Mexico`, `Kyrgyzstan`, `Kazakhstan`, `Brazil`, `Barbados`, `Afghanistan`,
+
+`Algeria`.
+
+some contributions are including here because they have signed and ratified the
+
+extradition treaty with Sino and have in force surrender of fugitive offenders
+
+with Fragrant Harbour, e.g: `South Africa`, `South Korea`.
+
+some contributions are including here only because they defended sino-security
+
+law for Fragrant Harbour, e.g: `Somalia`, `Sierra Leone`, `Papua New Guinea`,
+
+`Oman`, `Niger`, `Mauritania`, `Kuwait`, `Djibouti`, `Antigua and Barbuda`.
+
+some contributions are including here because they defended sino-security
+
+law for Fragrant Harbour and have signed and ratified the extradition treaty
+
+with Sino, e.g: `Lesotho`.
+
+removing some contributions because there has no reason to vote again, e.g:
+
+`Romania`.
 
 ## 2.Reference
 
