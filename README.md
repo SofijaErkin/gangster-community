@@ -14,6 +14,8 @@ contributions. This project is aim to do the favor for the configuration
 
 ## 1.The Contributions
 
+### 1.1All Calculate
+
 Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahrain, Barbados, Belarus,
 
 Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
@@ -37,6 +39,8 @@ Sudan, Suriname, Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda,
 Ukraine, United Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia,
 
 Zimbabwe.
+
+## 1.2Expression
 
 Notice: some contributions are including here only because they have signed and
 
@@ -75,6 +79,18 @@ of fugitive offenders with Fragrant Harbour, e.g: `Singapore`.
 removing some contributions because there has no reason to vote again, e.g:
 
 `Romania`.
+
+## 1.3Summary
+
+### 1.3.1 All covering Contributions
+
+All covering dangerous status, that is all contributions, which is all
+
+calculating. Just see `1.1All Calculate`.
+
+### 1.3.2Limit Contributions
+
+So, the main contributions of gangster community are except the `1.2Expression`.
 
 ## 2.Reference
 
