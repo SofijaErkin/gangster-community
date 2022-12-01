@@ -18,19 +18,19 @@ Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahrain, Barbados, Belarus,
 
 Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
 
-Congo, Cuba, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Ethiopia,
+Congo, Cuba, Czech, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea, Ethiopia,
 
-Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, Indonesia, Iran,
+Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, India, Indonesia, Iran,
 
 Iraq, Kazakhstan, Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan, Laos,
 
-Lebanon, Lesotho, Madagascar, Mauritania, Mexico, Mongolia, Morocco,
+Lebanon, Lesotho, Madagascar, Malaysia, Mauritania, Mexico, Mongolia, Morocco,
 
 Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Oman, Pakistan,
 
 Palestine, Papua New Guinea, Peru, Portugal, Philippines, Russia,
 
-Saudi Arabia, Sierra Leone, Somalia, South Africa, South Sudan, Sri Lanka,
+Saudi Arabia, Sierra Leone, Singapore, Somalia, South Africa, South Sudan, Sri Lanka,
 
 Sudan, Suriname, Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda,
 
@@ -52,7 +52,9 @@ some contributions are including here because they have signed and ratified the
 
 extradition treaty with Sino and have in force surrender of fugitive offenders
 
-with Fragrant Harbour, e.g: `South Africa`, `South Korea`.
+with Fragrant Harbour, e.g: `South Africa`, `South Korea`, `Philippines`,
+
+`Portugal`, `Indonesia`.
 
 some contributions are including here only because they defended sino-security
 
@@ -65,6 +67,10 @@ some contributions are including here because they defended sino-security
 law for Fragrant Harbour and have signed and ratified the extradition treaty
 
 with Sino, e.g: `Lesotho`.
+
+some contributions are including here only because they have in force surrender
+
+of fugitive offenders with Fragrant Harbour, e.g: `Singapore`.
 
 removing some contributions because there has no reason to vote again, e.g:
 
