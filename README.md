@@ -88,27 +88,35 @@ Update Big Notice(22:30 1 Dec 2022 EST):
 
 member states, with the exception of Russia.
 
-2.Those gangster recognized Russia's annexation of Crimea: `Russia`,
+2.Those gangster recognized Russia's annexation of Crimea in 2014: `Russia`,
 
 `Afghanistan`, `Cuba`, `Nicaragua`, `North korea`, `Syria`, `Venezuela`.
 
 3.Some maintains a neutral position against the annexation of the Republic of
 
-Crimea and Sevastopol to the Russian Federation, e.g: `Argentina`, `Israel`,
+Crimea and Sevastopol to the Russian Federation in 2014, e.g: `Argentina`, `Israel`,
 
 `south africa`.
 
 4.Those gangster vote `Against` about the territorial integrity of Ukraine on
 
-he United Nations General Assembly: `Armenia`, `Belarus`, `Bolivia`, `Cuba`,
+he United Nations General Assembly in 2022: `Armenia`, `Belarus`, `Bolivia`, `Cuba`,
 
 `North korea`, `Nicaragua`, `Russia`, `Sudan`, `Syria`, `Venezuela`.
 
 5.Those gangster do not condemn the invasion of Ukraine and do not demand a
 
-complete withdrawal of Russian troops: `Belarus`, `Eritrea`, `North Korea`,
+complete withdrawal of Russian troops in 2022: `Belarus`, `Eritrea`, `North Korea`,
 
 `Russia`, `Syria`.
+
+6.Those gangster support for Russian actions or condemnation of the Ukrainian
+
+interim government during reaction to the 2014 Crimean crisis: `Armenia`,
+
+`Bolivia`, `Cuba`, `Kyrgyzstan`, `North korea`, `Nicaragua`, `Russia`, `Sudan`,
+
+`Syria`, `Venezuela`, `Zimbabwe`.
 
 ## 1.3Summary
 
@@ -137,3 +145,5 @@ So, the main contributions of gangster community are except the `1.2Expression`.
 6.[U.N. General Assembly vote about the territorial integrity of Ukraine](https://digitallibrary.un.org/record/767565).
 
 7.[United Nations General Assembly Resolution ES-11/1](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1).
+
+8.[International reactions to the annexation of Crimea by the Russian Federation](https://en.wikipedia.org/wiki/International_reactions_to_the_annexation_of_Crimea_by_the_Russian_Federation).
