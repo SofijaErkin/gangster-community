@@ -104,6 +104,12 @@ he United Nations General Assembly: `Armenia`, `Belarus`, `Bolivia`, `Cuba`,
 
 `North korea`, `Nicaragua`, `Russia`, `Sudan`, `Syria`, `Venezuela`.
 
+5.Those gangster do not condemn the invasion of Ukraine and do not demand a
+
+complete withdrawal of Russian troops: `Belarus`, `Eritrea`, `North Korea`,
+
+`Russia`, `Syria`.
+
 ## 1.3Summary
 
 ### 1.3.1 All covering Contributions
@@ -129,3 +135,5 @@ So, the main contributions of gangster community are except the `1.2Expression`.
 5.[Donetsk&Lugansk have not been recognized by any of the UN member states](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E7%B4%9B%E4%BA%89_(2014%E5%B9%B4-)).
 
 6.[U.N. General Assembly vote about the territorial integrity of Ukraine](https://digitallibrary.un.org/record/767565).
+
+7.[United Nations General Assembly Resolution ES-11/1](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1).
