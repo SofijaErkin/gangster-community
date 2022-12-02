@@ -40,6 +40,21 @@ Thailand, Togo, Tunisia, Uganda, Ukraine, United Arab Emirates(UAE),
 
 Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
 
+Also, the `2-letter ISO3166 codes` of upstairs are:
+
+    {af},{dz},{ao},{ag},{am},{bh},{bb},
+    {by},{bo},{br},{bi},{kh},{cm},{cf},
+    {cn},{km},{cg},{cu},{cz},{dj},{dm},{eg},
+    {gq},{er},{et},{ga},{gm},{gd},{gn},{gw},
+    {in},{id},{ir},{iq},{kz},{ki},{kp},{kr},
+    {kw},{kg},{la},{lb},{ls},{mg},{my},
+    {mr},{mx},{mn},{ma},{mz},{mm},{na},{np},
+    {ni},{ne},{om},{pk},{ps},{pg},{pe},{pt},
+    {ph},{ru},{sa},{sl},{sg},{so},{za},
+    {ss},{lk},{sd},{sr},{sy},{tj},{tz},
+    {th},{tg},{tn},{ug},{ua},{ae},
+    {uz},{ve},{ye},{zm},{zw} 
+
 ## 1.2Expression
 
 Notice:
