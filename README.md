@@ -90,13 +90,19 @@ member states, with the exception of Russia.
 
 2.Those gangster recognized Russia's annexation of Crimea: `Russia`,
 
-`Afghanistan`, `Cuba`, `Nicaragua`, `north korea`, `Syria`, `Venezuela`.
+`Afghanistan`, `Cuba`, `Nicaragua`, `North korea`, `Syria`, `Venezuela`.
 
 3.Some maintains a neutral position against the annexation of the Republic of
 
 Crimea and Sevastopol to the Russian Federation, e.g: `Argentina`, `Israel`,
 
 `south africa`.
+
+4.Those gangster vote `Against` about the territorial integrity of Ukraine on
+
+he United Nations General Assembly: `Armenia`, `Belarus`, `Bolivia`, `Cuba`,
+
+`North korea`, `Nicaragua`, `Russia`, `Sudan`, `Syria`, `Venezuela`.
 
 ## 1.3Summary
 
@@ -121,3 +127,5 @@ So, the main contributions of gangster community are except the `1.2Expression`.
 4.[Sino-Extradition law](https://en.wikipedia.org/wiki/Extradition_law_in_China).
 
 5.[Donetsk&Lugansk have not been recognized by any of the UN member states](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E7%B4%9B%E4%BA%89_(2014%E5%B9%B4-)).
+
+6.[U.N. General Assembly vote about the territorial integrity of Ukraine](https://digitallibrary.un.org/record/767565).
