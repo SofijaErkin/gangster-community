@@ -16,29 +16,29 @@ contributions. This project is aim to do the favor for the configuration
 
 ### 1.1All Calculate
 
-Afghanistan, Algeria, Angola, Antigua and Barbuda, Armenia, Bahrain, Barbados, Belarus,
+Afghanistan, Algeria, Angola, Antigua and Barbuda, Armenia, Bahrain, Barbados,
 
-Bolivia, Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
+Belarus, Bolivia, Brazil, Burundi, Cambodia, Cameroon, Central African
 
-Congo, Cuba, Czech, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea,
+Republic, China, Comoros, Congo, Cuba, Czech, Djibouti, Dominica, Egypt,
 
-Ethiopia, Gabon, Gambia, Grenada, Guinea, Guinea-Bissau, India, Indonesia,
+Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Grenada, Guinea, Guinea
 
-Iran, Iraq, Kazakhstan, Kiribati, North Korea, South Korea, Kuwait, Kyrgyzstan,
+-Bissau, India, Indonesia, Iran, Iraq, Kazakhstan, Kiribati, North Korea, South
 
-Laos, Lebanon, Lesotho, Madagascar, Malaysia, Mauritania, Mexico, Mongolia,
+Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Lesotho, Madagascar, Malaysia,
 
-Morocco, Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Oman, Pakistan,
+Mauritania, Mexico, Mongolia, Morocco, Mozambique, Myanmar, Namibia, Nepal,
 
-Palestine, Papua New Guinea, Peru, Portugal, Philippines, Russia, Saudi Arabia,
+Nicaragua, Niger, Oman, Pakistan, Palestine, Papua New Guinea, Peru, Portugal,
 
-Sierra Leone, Singapore, Somalia, South Africa, South Sudan, Sri Lanka, Sudan,
+Philippines, Russia, Saudi Arabia, Sierra Leone, Singapore, Somalia, South
 
-Suriname, Syria, Tajikistan, Tanzania, Thailand, Togo, Tunisia, Uganda,
+Africa, South Sudan, Sri Lanka, Sudan, Suriname, Syria, Tajikistan, Tanzania,
 
-Ukraine, United Arab Emirates(UAE), Uzbekistan, Venezuela, Yemen, Zambia,
+Thailand, Togo, Tunisia, Uganda, Ukraine, United Arab Emirates(UAE),
 
-Zimbabwe.
+Uzbekistan, Venezuela, Yemen, Zambia, Zimbabwe.
 
 ## 1.2Expression
 
