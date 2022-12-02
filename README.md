@@ -16,9 +16,9 @@ contributions. This project is aim to do the favor for the configuration
 
 ### 1.1All Calculate
 
-Afghanistan, Algeria, Angola, Antigua and Barbuda, Bahrain, Barbados, Belarus,
+Afghanistan, Algeria, Angola, Antigua and Barbuda, Armenia, Bahrain, Barbados, Belarus,
 
-Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
+Bolivia, Brazil, Burundi, Cambodia, Cameroon, Central African Republic, China, Comoros,
 
 Congo, Cuba, Czech, Djibouti, Dominica, Egypt, Equatorial Guinea, Eritrea,
 
