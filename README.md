@@ -162,3 +162,9 @@ So, the main contributions of gangster community are except the `1.2Expression`.
 7.[United Nations General Assembly Resolution ES-11/1](https://en.wikipedia.org/wiki/United_Nations_General_Assembly_Resolution_ES-11/1).
 
 8.[International reactions to the annexation of Crimea by the Russian Federation](https://en.wikipedia.org/wiki/International_reactions_to_the_annexation_of_Crimea_by_the_Russian_Federation).
+
+9.[Entity List](https://en.wikipedia.org/wiki/Entity_List).
+
+10.[What We Know About the Unreliable Entities of Sino-Blacklist](https://www.bloomberg.com/news/articles/2019-06-04/understanding-china-s-unreliable-entities-blacklist-quicktake).
+
+11.[Sino-Ministry of Commerce places two companies on its Unreliable Entity List for the first time](https://www.davispolk.com/insights/client-update/chinese-ministry-commerce-places-two-companies-its-unreliable-entity-list).
